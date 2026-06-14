@@ -2,4 +2,7 @@
     <string name="app_name">YesNo Button</string>
     <string name="no">No</string>
     <string name="yes">Yes</string>
+    <!-- Each toggle label names the language you switch TO -->
+    <string name="switch_to_he">עברית</string>
+    <string name="switch_to_en">English</string>
 </resources>
